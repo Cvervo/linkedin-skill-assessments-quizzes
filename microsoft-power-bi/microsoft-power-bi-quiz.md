@@ -616,3 +616,10 @@ D. They must have no duplicate data rows.
 - [ ] gauge chart
 - [x] treemap
 - [ ] waterfall
+
+#### Q79. You have pinned a bar chart visualization to a dashboard. If you then modify the bar chart in the underlying report, what will the dashboard display?
+
+- [ ] It will display nothing. You will need to re-pin the bar chart to the dashboard.
+- [ ] It will display the bar chart as it appeared when it was pinned.
+- [ ] It will display an error message where the bar chart had been pinned.
+- [ ] It will display the bar chart as it appears in the report now.
